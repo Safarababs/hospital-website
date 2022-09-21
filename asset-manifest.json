@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/hospital-website/static/js/main.7403aea4.js",
+    "static/media/doctor.png": "/hospital-website/static/media/doctor.8c6cb80313eaaffd4bd1.png",
+    "static/media/about.png": "/hospital-website/static/media/about.b31390f8dcacb0cf94e8.png",
+    "static/media/img1.jpg": "/hospital-website/static/media/img1.400eb3c34ed4d4c4fcc7.jpg",
+    "static/media/img6.jpg": "/hospital-website/static/media/img6.48043ec936d9531398e9.jpg",
+    "static/media/img3.jpg": "/hospital-website/static/media/img3.c6f9e1d933c746b86d27.jpg",
+    "static/media/img4.webp": "/hospital-website/static/media/img4.5bd4e97ec8cae798f314.webp",
+    "static/media/img9.jpeg": "/hospital-website/static/media/img9.ec9109fade8eb9ea7a98.jpeg",
+    "static/media/img5.jpg": "/hospital-website/static/media/img5.a8cf2085ab79f37bda31.jpg",
+    "static/media/img2.webp": "/hospital-website/static/media/img2.be522b5b3d2751e37054.webp",
+    "static/media/img8.webp": "/hospital-website/static/media/img8.ff85575584f615e47157.webp",
+    "static/media/img7.webp": "/hospital-website/static/media/img7.e1a692617f94c0c080b3.webp",
+    "static/media/img10.webp": "/hospital-website/static/media/img10.34fdbde24633dd95655a.webp",
+    "static/media/img11.webp": "/hospital-website/static/media/img11.595eace6311535ab647c.webp",
+    "index.html": "/hospital-website/index.html",
+    "main.7403aea4.js.map": "/hospital-website/static/js/main.7403aea4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7403aea4.js"
+  ]
+}
